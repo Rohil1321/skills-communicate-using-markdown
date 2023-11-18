@@ -11,3 +11,7 @@
 ``` javascript
 var myVar = "Hello, This is an example work for GitHub Tutorial!";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
